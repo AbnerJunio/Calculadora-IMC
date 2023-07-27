@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lqtS55loMKOqN6d1Lbgb67W+bgOeTfYn8ZxcgJ8sYuTCst6HpuqCKB3IGA0bGTWIf/4IVYPobLAt705HtYBsuQ==",
+  "dgSpecHash": "D5p9oUk54BOFSyRRTWoFlK5CNZh/Ap/d2PbG3t90USb6nk6+QmHIFYvwp61VFm2S0kKT0pIBXDQM+2h9JgEBzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Abner PC\\Desktop\\C#\\CalculadoraDeIMC\\CalculadoraDeIMC.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Abner PC\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.5\\microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Abner PC\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Abner PC\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
