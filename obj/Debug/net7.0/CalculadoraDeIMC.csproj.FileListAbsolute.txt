@@ -1,0 +1,15 @@
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\obj\Debug\net7.0\CalculadoraDeIMC.csproj.AssemblyReference.cache
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\obj\Debug\net7.0\CalculadoraDeIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\obj\Debug\net7.0\CalculadoraDeIMC.AssemblyInfoInputs.cache
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\obj\Debug\net7.0\CalculadoraDeIMC.AssemblyInfo.cs
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\obj\Debug\net7.0\CalculadoraDeIMC.csproj.CoreCompileInputs.cache
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\bin\Debug\net7.0\CalculadoraDeIMC.exe
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\bin\Debug\net7.0\CalculadoraDeIMC.deps.json
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\bin\Debug\net7.0\CalculadoraDeIMC.runtimeconfig.json
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\bin\Debug\net7.0\CalculadoraDeIMC.dll
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\bin\Debug\net7.0\CalculadoraDeIMC.pdb
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\obj\Debug\net7.0\CalculadoraDeIMC.dll
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\obj\Debug\net7.0\refint\CalculadoraDeIMC.dll
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\obj\Debug\net7.0\CalculadoraDeIMC.pdb
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\obj\Debug\net7.0\CalculadoraDeIMC.genruntimeconfig.cache
+C:\Users\Abner PC\Desktop\C#\CalculadoraDeIMC\obj\Debug\net7.0\ref\CalculadoraDeIMC.dll
